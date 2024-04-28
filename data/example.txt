@@ -1,3 +1,8 @@
-add links to 'vid-list/youtube_links.txt' like below
+To hear the songs/videos: 
 
-https://www.youtube.com/watch?v=link1, Video Title 1
+1. add links to 'vid-list/youtube_links.txt' in the given format:
+
+      https://www.youtube.com/watch?v=link1 VideoTitle
+
+Note: Few songs are already added to the 'youtube_links.txt' for reference
+      feel free to remove them.
