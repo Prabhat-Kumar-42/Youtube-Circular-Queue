@@ -1,0 +1,38 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e52b29cb8ac629d7be3d87fd37231cf9352282c5fc3c0ed58acfdfd733054802"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.10.12",
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "python-vlc": {
+            "hashes": [
+                "sha256:244fbb9e392a0326841fca926d6d12a2a36c546982191f493f148fa19e66b1d4",
+                "sha256:903b3dc3602804958837c69907f3d3485921ef8424c254c7314db3d6037f8d62"
+            ],
+            "index": "pypi",
+            "version": "==3.0.20123"
+        },
+        "youtube-dl": {
+            "hashes": [
+                "sha256:bc59e86c5d15d887ac590454511f08ce2c47698d5a82c27bfe27b5d814bbaed2",
+                "sha256:f1336d5de68647e0364a47b3c0712578e59ec76f02048ff5c50ef1c69d79cd55"
+            ],
+            "index": "pypi",
+            "version": "==2021.12.17"
+        }
+    },
+    "develop": {}
+}
